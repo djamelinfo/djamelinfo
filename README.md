@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,gitlab,githubactions,java,latex,py,scala,terraform)](https://https://djamel-edine.yagoubi.work))
+
 <!--
 **djamelinfo/djamelinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
