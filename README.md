@@ -2,6 +2,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,gcp,gitlab,githubactions,java,latex,py,scala,terraform,kubernetes)](https://https://djamel-edine.yagoubi.work)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djamelinfo&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=djamelinfo&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **djamelinfo/djamelinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
