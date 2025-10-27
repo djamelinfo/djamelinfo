@@ -2,7 +2,7 @@
 
 Check out my [portfolio](https://djamel-edine.yagoubi.work).
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Stuff+I+use+a+lot+;at+work;and+in+my+homelab)](https://git.io/typing-svg)
+## Stuff I use a lot — at work & in my homelab
 
 [![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=docker,kubernetes,googlecloud,airflow,googlebigquery,terraform,apachemaven,spark,gitea,githubactions,gitlab,java,linux,ollama,proxmox,truenasscale,elasticsearch,grafana,sql,apachehive,python,fastapi,openapi,astraluv,scala,bash,n8n,latex,homeassistant,raspberrypi)](https://djamel-edine.yagoubi.work)
 
