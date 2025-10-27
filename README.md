@@ -7,9 +7,6 @@ Check out my [portfolio](https://djamel-edine.yagoubi.work).
 [![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=docker,kubernetes,googlecloud,airflow,googlebigquery,terraform,apachemaven,spark,gitea,githubactions,gitlab,java,linux,ollama,proxmox,truenasscale,elasticsearch,grafana,sql,apachehive,python,fastapi,openapi,astraluv,scala,bash,n8n,latex,homeassistant,raspberrypi)](https://djamel-edine.yagoubi.work)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=djamelinfo&label=Profile%20views&color=0e75b6&style=flat)
-
-
 
 
 <details>
