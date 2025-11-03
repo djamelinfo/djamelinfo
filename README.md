@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&width=435&lines=Hey+There!;I+am+Data+Engineer;And+Homelab+Builder)](https://djamel-edine.yagoubi.work)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&width=435&lines=Hey+There!;I+am+Data+Engineer.;Self-Hosting+Geek.)](https://djamel-edine.yagoubi.work)
 
 Check out my [portfolio](https://djamel-edine.yagoubi.work).
 
